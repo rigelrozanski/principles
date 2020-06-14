@@ -38,4 +38,5 @@ conversation.
  - @alessio
  - nddyck
  - tyler neely
+ - @jackzampolin
 
