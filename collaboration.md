@@ -36,4 +36,7 @@ conversation.
  - fp4k
  - Gregory Landua
  - @alessio
+ - nddyck
+ - tyler neely
  - @jackzampolin
+
