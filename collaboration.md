@@ -37,4 +37,5 @@ conversation.
  - Gregory Landua
  - @alessio
  - nddyck
+ - tyler neely
 
