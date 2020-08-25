@@ -39,5 +39,5 @@ conversation.
  - nddyck
  - tyler neely
  - @jackzampolin
- - @sunnya97
+ - [@sunnya97](https://github.com/sunnya97)
 
